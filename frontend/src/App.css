@@ -1,0 +1,43 @@
+.Itext
+{
+  display: block;
+  width: 100%;
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  border: 1px solid #017d87;
+  background-color :transparent;
+  color:white
+
+}
+input:focus {
+  border: 1px solid #017d87;
+}
+
+.button {
+  background-color: #017d87;
+  border: none;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.button1 {
+  background-color: #017d87;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 1px;
+  border-radius: 8px;
+  cursor: pointer;
+}
